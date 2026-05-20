@@ -2,7 +2,7 @@
 <h3 align="center">QA Engineer | Automation Testing | API Testing | Performance Testing</h3>
 
 - 🔭 I’m currently working on enhancing my Testing Automation projects
-- 🌱 I’m currently learning Selenium with Java
+- 🌱 I’m currently learning Playwright using JavaScript
 - 📫 How to reach me **hilarioluigi3@gmail.com**
 - 👨‍💻 Here's all my projects:
   - [Selenium](https://github.com/hilarioluigi/cura-heathcare-selenium-automation)
