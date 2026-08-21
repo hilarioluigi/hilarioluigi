@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hilario Luigi</h1>
-<h3 align="center">QA Engineer | System Analyst | Automation Testing | API Testing | Performance Testing</h3>
+<h3 align="center">QA Engineer | System Analyst | Product Management | Automation Testing | API Testing | Performance Testing</h3>
 
 - 🔭 I’m currently working on enhancing my Testing Automation projects
 - 🌱 I’m currently learning Playwright using JavaScript
